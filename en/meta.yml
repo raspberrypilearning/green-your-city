@@ -1,17 +1,24 @@
-title: green-your-city
+---
 hero_image: images/banner.png
-description: green-your-city description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 1 # possible values: 1, 2 or 3
+theme: red
+duration: 1
 listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "games, robots, jokes/pranks, space, photography, music/sound, physical computing"
-technologies: "html/css, scratch, electronics, physical computing, python"
-site_areas:
+title: Green Your City
+description: Control your toy helicopter to water flowers in a city.
+original_url: https://codeclubprojects.org/en-GB/scratch/green-your-city
+interests: ''
+technologies: scratch
+site_areas: codeclub, scratch
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+- title: Introduction
+- title: Helicopter
+- title: 'Challenge: Animate your helicopter'
+- title: Water
+- title: 'Challenge: Too much water'
+- title: Flowers
+- title: 'Challenge: Keeping score'
+- title: 'Challenge: Floating flowers'
+
