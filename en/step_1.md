@@ -9,7 +9,7 @@ You are going to learn how to create a game in which a helicopter scores points 
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/green-your-city/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/green-your-city/print).
 
 
 --- collapse ---
