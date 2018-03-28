@@ -16,7 +16,7 @@ Fe awn ati i ychwanegu côd i dy flodau i dyfu pan maent yn cael eu dyfrio.
 
 	![screenshot](images/flowers-water-movement-bug.png)
 
-	Alli di ychwanegu bloc 'aros' {.blockcontrol} fel fod y blodyn dim ond yn symud fyny unwaith bob tro.
+	Alli di ychwanegu bloc `aros`{:class="blockcontrol"} fel fod y blodyn dim ond yn symud fyny unwaith bob tro.
 
 + Gwna gopi o gôd dy flodyn coch i'r cipluniau blodau eraill. I wneud hyn, llusga'r côd i'r cipluniau eraill.
 
