@@ -7,6 +7,11 @@ Rwyt ti mynd i ddysgu sut i greu gên lle mae hofrennydd yn ennill pwyntiau trwy
   <img src="images/flowers-final.png">
 </div>
 
+--- collapse ---
+---
+title: Nodiadau i Wirfoddolwyr
+---
+
 ## Adnoddau
 Ar gyfer y prosiect yma, dylid defnyddio Scratch 2.  Mae modd defnyddio Scratch 2 arlein yma [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) neu mae modd ei lawrlwytho yma [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) a'i ddefnyddio heb gysylltiad gwe.
 
@@ -48,3 +53,4 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
   end
 ```
 
+--- collapse ---
