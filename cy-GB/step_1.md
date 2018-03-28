@@ -43,8 +43,8 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
 + Y ffordd mwyaf syml i symud yr hofrennydd ar draws y llwyfan yw defnyddio'r côd canlynol:
 
 ```blocks
-	ailwna hyd at <cyffwrdd [ymyl v]?>
-   	symud (3) cam
+  ailwna hyd at <cyffwrdd [ymyl v] ?> 
+    symud (3) cam
   end
 ```
 
