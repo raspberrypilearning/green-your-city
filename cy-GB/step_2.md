@@ -14,21 +14,21 @@ Fe awn ati i ychwanegu côd i dy hofrennydd i symud ar draws y llwyfan.
 
 + Ychwanega'r côd yma fel bod dy hofrennydd yn cychwyn yn ochr top-chwith y llwyfan.
 
-	![screenshot](images/flowers-hofrennydd-goto.png)
+	![screenshot](images/flowers-helicopter-goto.png)
 
 + Ychwanega côd fel bod dy hofrennydd yn symud i'r dde tan ei fod yn cyrraedd ymyl y llwyfan.
 
-	![screenshot](images/flowers-hofrennydd-move.png)
+	![screenshot](images/flowers-helicopter-move.png)
 
 + Profa dy hofrennydd trwy glicio ar y faner werdd. Fe ddylai symud ar draws top y llwyfan tan ei fod yn cyrraedd yr ochr arall.
 
-	![screenshot](images/flowers-hofrennydd-move-test.png)
+	![screenshot](images/flowers-helicopter-move-test.png)
 
 + Unwaith mae wedi cyrraedd yr ymyl, fe ddylai dy hofrennydd fynd yn ôl i'r ochr chwith a symud i lawr ychydig.
 
  	![screenshot](images/flowers-helicopter-y.png)
 
- 	Sylwa mai'r blociau rwyt ti angen eu defnyddio yw 'gosod x' {.blockmotion} a 'newid y' {.blockmotion}.
+ 	Sylwa mai'r blociau rwyt ti angen eu defnyddio yw `gosod x`{:class="blockmotion"} a `newid y`{:class="blockmotion"}.
 
 + Yn olaf, mae angen i ti ail-adrodd y symudiad yma tan fod dy hofrennydd ar waelod y sgrin (a bod ei safle yn llai 'na -90).
 
