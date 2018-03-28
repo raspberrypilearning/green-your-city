@@ -38,4 +38,4 @@ Fe awn ati i ychwanegu côd i dy hofrennydd i symud ar draws y llwyfan.
 
 	Mae modd i ti wneud y profi yn gynt trwy gyflymu dy hofrennydd.
 
-	 ![screenshot](images/flowers-hofrennydd-movement-test.png)
+	 ![screenshot](images/flowers-helicopter-movement-test.png)
