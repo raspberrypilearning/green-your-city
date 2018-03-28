@@ -34,9 +34,9 @@ Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llaf
 + [Cyfuno adeiladwaith rhaglenni i ddatrys problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Heriau
-+ "Animeiddio dy hofrennydd" - defnyddio bloc 'gwisg nesaf' {.blocklooks} i animeiddio dy hofrennydd;
-+ "Gormod o ddŵr" - defnyddio bloc 'aros' {.blockcontrol} i arafu'r dŵr sy'n cael ei ollwng;
-+ "Cadw sgôr" - ychwanegu newidyn 'sgôr' {.blockdata} i'r gêm, sydd yn cynyddu bob tro mae'r blodyn yn cael ei dyfrio;
++ "Animeiddio dy hofrennydd" - defnyddio bloc `gwisg nesaf`{:class="blocklooks"} i animeiddio dy hofrennydd;
++ "Gormod o ddŵr" - defnyddio bloc `aros`{:class="blockcontrol"} i arafu'r dŵr sy'n cael ei ollwng;
++ "Cadw sgôr" - ychwanegu newidyn `sgôr`{:class="blockdata"} i'r gêm, sydd yn cynyddu bob tro mae'r blodyn yn cael ei dyfrio;
 + "Blodau yn arnofio" - sicrhau bod y blodau ond yn symud os nad ydynt yn ddigon uchel.
 
 ## Cwestiynau a Ofynir yn Aml
