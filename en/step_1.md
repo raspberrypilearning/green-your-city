@@ -66,11 +66,11 @@ This means that the helicopter will not move if it's starting position is on an 
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
 title: Project materials
 ---
+
 ## Project resources
 * [Online Scratch 2 project containing external resources](http://jumpto.cc/city-resources)
 * [Downloadable Scratch 2 project containing external resources](resources/GreenYourCityResources.sb2)
