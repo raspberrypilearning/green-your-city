@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Animate your helicopter
 You may have noticed that your helicopter has 2 slightly different costumes.
 
