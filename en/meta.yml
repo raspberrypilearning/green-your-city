@@ -16,12 +16,14 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Helicopter
 - title: 'Challenge: Animate your helicopter'
 - title: Water
 - title: 'Challenge: Too much water'
 - title: Flowers
 - title: 'Challenge: Keeping score'
+  completion: internal
 - title: 'Challenge: Floating flowers'

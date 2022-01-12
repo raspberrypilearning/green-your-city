@@ -6,7 +6,7 @@ listed: false
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: "Gwyrddio'r Ddinas"
+title: Gwyrddio'r Ddinas
 description: Rheola hofrennydd i roi dŵr i flodau yn y ddinas.
 original_url: https://codeclubprojects.org/en-GB/scratch/green-your-city
 interests: games
@@ -16,12 +16,14 @@ hardware: ''
 software: scratch
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Cyflwyniad
+  completion: engaged
 - title: Hofrennydd
 - title: 'Her: Animeiddio dy hofrennydd'
 - title: Dŵr
 - title: 'Her: Gormod o ddŵr'
 - title: Blodau
 - title: 'Her: Cadw sgôr'
+  completion: internal
 - title: 'Her: Blodau yn arnofio'
